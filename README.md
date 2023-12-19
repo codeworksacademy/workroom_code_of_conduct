@@ -24,10 +24,10 @@ Welcome back, Alumni! To maintain a productive learning environment for everyone
 ## Student Experience
 
 - Be respectful of the current students' position in the course, as many are just beginning their journey.
-- Avoid spoiling checkpoints.
-- Refrain from providing solutions to their code, even if they ask.
-- Encourage students.
-- Share your student experience.
+- Don't *spoil* checkpoints.
+- Don't provide solutions to their code, even if they ask.
+- Do Encourage students.
+- Do Share your student experience.
 - Do Socialize.
 
 ## Visitor Policy
