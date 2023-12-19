@@ -35,7 +35,7 @@ Welcome back, Alumni! To maintain a productive learning environment for everyone
 - Ensure visitors adhere to the code of conduct.
 - Visitors do not have access to shared resources.
 - Visitors may not stay longer than 1 hour.
-- Visitors must not disrupt the work or concentration of others in the office room.
+- Visitors must not disrupt the work or concentration of others in the workroom.
 
 While working in this space, you represent the CodeWorks Alumni network. Be the impressive students we love to brag about, not the ones we have to write these rules for.
 
